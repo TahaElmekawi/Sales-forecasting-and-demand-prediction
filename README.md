@@ -31,47 +31,13 @@ The dataset consists of the following features:
 - **Profit**: Profit or loss incurred from the sale.
 
 ## Project Objectives
-- **Exploratory Data Analysis (EDA)**: Analyze the dataset to identify trends, patterns, and insights.
-- **Feature Engineering**: Prepare and transform data for modeling.
-- **Sales Forecasting**: Use regression models to predict future sales.
-- **Demand Prediction**: Identify factors affecting demand for different products and customer segments.
-- **Business Insights**: Provide actionable insights for improving sales and profitability.
+ The Sales Forecasting and Demand Prediction project aims to build a machine learning 
+model that predicts future sales and demand for products based on historical data. Accurate forecasting 
+helps businesses optimize inventory management, staffing, and marketing strategies. This project will apply 
+data science techniques, from data collection and analysis to model deployment and monitoring, enabling 
+businesses to make data-driven decisions. 
 
 ## Technologies Used
 - Python
 - Pandas, NumPy, Matplotlib, Seaborn (Data Analysis & Visualization)
 - Scikit-learn (Machine Learning Models)
-- TensorFlow/Keras (Deep Learning Models, if applicable)
-- Tableau/Power BI (Data Visualization)
-
-## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/sales-forecasting.git
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the analysis and model scripts:
-   ```bash
-   python analysis.py
-   python model.py
-   ```
-
-## Results & Insights
-The results of the analysis and model predictions will be documented in the project report. Key findings include:
-- Best-selling product categories and regions
-- Most profitable customer segments
-- Forecasted sales trends for upcoming periods
-- Impact of discounts on profit margins
-
-## Acknowledgements
-This dataset was originally sourced from Tableau. All credit goes to the original creators. This project is for educational purposes only.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-For any questions or contributions, feel free to open an issue or submit a pull request!
-
